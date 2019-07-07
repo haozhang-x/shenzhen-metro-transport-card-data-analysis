@@ -11,6 +11,8 @@
 4. `card-data` 目录下的csv文件是已经获取好的全量刷卡数据（`1337000`条）
 5. `szt_card_data_2920000403601.csv` 是`10000`条的刷卡数据   
 
+## 数据可视化
+
 <img src="https://github.com/haozhang-x/sz-metro-transport-card-data-analysis/blob/master/src/main/resources/images/204521%402x.png" width ="80%" height = "60%"  alt="image"/>
 
 ### 云图链接：https://v.yuntus.com/cloudv/5efa9def8e39e7410ede9d8ab98f141e
