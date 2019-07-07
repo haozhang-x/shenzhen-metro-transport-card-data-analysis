@@ -1,7 +1,7 @@
 # sz metro transport card data analysis
 # 深圳通刷卡数据分析 
 
-<img src="https://github.com/haozhang-x/sz-metro-transport-card-data-analysis/blob/master/src/main/resources/images/204521%402x.png" width ="100" height = "100"  alt="image"/>
+<img src="https://github.com/haozhang-x/sz-metro-transport-card-data-analysis/blob/master/src/main/resources/images/204521%402x.png" width ="30%" height = "30%"  alt="image"/>
 
 ### 云图链接：https://v.yuntus.com/cloudv/5efa9def8e39e7410ede9d8ab98f141e
 ## 通过深圳市政府开放平台提供的深圳通刷卡数据，进行了简单分析，数据总量 1337000 条
