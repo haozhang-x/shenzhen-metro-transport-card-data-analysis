@@ -1,5 +1,6 @@
 # sz metro transport card data analysis
 # 深圳通刷卡数据分析
+![data](https://github.com/haozhang-x/sz-metro-transport-card-data-analysis/tree/master/src/main/resources/images/204521@2x.png)
 ## 通过深圳市政府开放平台提供的深圳通刷卡数据，进行了简单分析，数据总量 1337000 条
 ## 功能说明
 1. `FetchData.scala` 获取API上全量的数据，并保存成CSV文件到本地 
