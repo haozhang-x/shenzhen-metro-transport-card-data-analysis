@@ -1,4 +1,4 @@
-# sz metro transport card data analysis
+# shenzhen metro transport card data analysis
 # 深圳通刷卡数据分析 
 ## 通过深圳市政府开放平台提供的深圳通刷卡数据，进行了简单分析，数据总量 1337000 条
 ## 功能说明
